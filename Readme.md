@@ -552,7 +552,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to everybody.
 - Linux community for testing and feedback
 - All contributors who helped improve this tool
-
+- Made By Soham Datta
 ---
 
 **🎉 Congratulations! You now have the ultimate GRUB protection system installed. Sleep well knowing your computer will always boot properly!**
