@@ -549,7 +549,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Thanks to the GRUB development team
+- Thanks to everybody.
 - Linux community for testing and feedback
 - All contributors who helped improve this tool
 
