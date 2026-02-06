@@ -2,7 +2,7 @@
 
 # ===================================================================
 # GRUB Auto-Recovery System v3.0
-# Advanced bootloader recovery with AI-powered diagnostics
+# Made by Soham Datta
 # ===================================================================
 # New Features in v3.0:
 # - Parallel health checks for faster diagnostics
